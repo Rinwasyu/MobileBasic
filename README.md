@@ -1,2 +1,5 @@
 # MobileBasic
-BASIC programs for Mobile Basic (Android application)
+BASIC programs for Mobile BASIC (Android application)
+
+### Mobile BASIC (Android application)
+com.mobilebasic.freeversion (now not active on Google Play)
